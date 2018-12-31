@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.89ff4446.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.327acf37.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.327acf37.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/react-gh-pages/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/react-gh-pages/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg",
-  "static/css/main.89ff4446.chunk.css.map": "/react-gh-pages/static/css/main.89ff4446.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.abef95e1d014c219b5544c3c95f427ba.js": "/react-gh-pages/precache-manifest.abef95e1d014c219b5544c3c95f427ba.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/blog/static/css/main.89ff4446.chunk.css",
+  "main.js": "/blog/static/js/main.d2110825.chunk.js",
+  "main.js.map": "/blog/static/js/main.d2110825.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/blog/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/blog/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/blog/static/js/runtime~main.255cd0f7.js",
+  "runtime~main.js.map": "/blog/static/js/runtime~main.255cd0f7.js.map",
+  "static/media/logo.svg": "/blog/static/media/logo.5d5d9eef.svg",
+  "static/css/main.89ff4446.chunk.css.map": "/blog/static/css/main.89ff4446.chunk.css.map",
+  "index.html": "/blog/index.html",
+  "precache-manifest.30a7e9342c9220c8e9515a1d8eefd917.js": "/blog/precache-manifest.30a7e9342c9220c8e9515a1d8eefd917.js",
+  "service-worker.js": "/blog/service-worker.js"
 }
