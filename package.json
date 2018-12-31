@@ -9,6 +9,9 @@
     "react-scripts": "2.1.2",
     "sed": "0.0.1"
   },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "blog -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
